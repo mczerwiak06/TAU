@@ -1,4 +1,4 @@
-package zad1.NWW;
+package zad2.NWW;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

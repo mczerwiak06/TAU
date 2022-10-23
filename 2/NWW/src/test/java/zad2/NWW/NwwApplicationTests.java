@@ -1,11 +1,9 @@
-package zad1.NWW;
+package zad2.NWW;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
-
-import java.util.InputMismatchException;
 
 import static org.junit.jupiter.api.Assertions.*;
 
