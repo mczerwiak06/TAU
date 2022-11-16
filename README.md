@@ -1,10 +1,11 @@
 Testy Selenium zrealizowano dla dwóch różnych serwisów internetowych: onet.pl i teufelaudio.pl
-Do testów wykorzystano webdriver - chromedriver dla przeglądarki Chrome i geckodriver dla przeglądarki Firefox
-Testy zostały napisane w Pythonie na Mac OS. Aby zadziałały należy podać poprawna ścieżkę dostępu do webdriver'a
+Do testów wykorzystano webdriver - chromedriver dla przeglądarki Chrome i geckodriver dla przeglądarki Firefox.
+Testy zostały napisane w Pythonie na Mac OS. 
+Aby zadziałały należy podać poprawną ścieżkę dostępu do webdriver'a.
 
 Scenariusze:
 
-Scenariusz 1 - Firefox
+Scenariusz 1 - Firefox (folder selenium)
 
 Dodanie produktu do koszyka na stronie „https://teufelaudio.pl" i sprawdzenie czy jest tam faktycznie widoczny.
 
@@ -18,7 +19,7 @@ Dodanie produktu do koszyka na stronie „https://teufelaudio.pl" i sprawdzenie 
 8. Przechodzimy do widoku koszyka
 9. Sprawdzamy czy produkt został prawidłowo dodany do koszyka.
 
-Scenariusz 2 - Chrome
+Scenariusz 2 - Chrome (folder selenium2)
 
 Wejście na stronę Onet.pl, przejrzenie wiadomości, wyszukiwanie po słowie i próba zalogowania
 
